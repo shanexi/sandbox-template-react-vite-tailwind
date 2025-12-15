@@ -71,3 +71,15 @@ export default defineConfig([
   },
 ])
 ```
+
+# Building the Template
+
+> https://codesandbox.io/docs/sdk/templates
+
+Template created with tag: pt_Sk4YeNfVQAk56PcVMwhKSf
+
+sdk.sandboxes.create({
+  id: "pt_Sk4YeNfVQAk56PcVMwhKSf"
+})
+
+Verified the creation at https://codesandbox.io/p/sandbox/fwslpp.
